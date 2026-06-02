@@ -29,55 +29,63 @@ export const portfolioData = {
       url: "https://ivistaz.com/",
       stack: ["Next.js", "WordPress CMS"],
       description:
-        "Corporate website developed with Next.js and integrated with WordPress CMS for blog publishing.",
+        "Developed a high-performance corporate website with dynamic content management, responsive design, and SEO-focused architecture to showcase company services and expertise.",
     },
-
+  
     {
       name: "The Zuri Hotels",
       url: "https://www.thezurihotels.com/",
       stack: ["Next.js", "WordPress CMS"],
       description:
-        "Hotel brand website built in Next.js with WordPress CMS support for blog and content management.",
+        "Built a premium hospitality website featuring hotel listings, destination information, and content-driven pages optimized for performance and user engagement.",
     },
-
+  
     {
       name: "Aarna Law",
       url: "https://aarnalaw.com/",
       stack: ["Next.js", "WordPress CMS"],
       description:
-        "Professional services website created with Next.js and connected to WordPress CMS for blog workflows.",
+        "Created a professional legal services platform with dynamic practice area management, thought leadership content, and a seamless user experience.",
     },
-
+  
     {
       name: "Suntec Group",
       url: "https://www.suntecgroup.com/",
       stack: ["WordPress"],
       description:
-        "WordPress-based website implementation with structured content and service-focused page layouts.",
+        "Implemented a scalable WordPress website focused on service offerings, lead generation, and structured content management for a global business audience.",
     },
-
+  
     {
       name: "Tejas Maritime",
       url: "https://tejasmaritime.com/",
-      stack: ["Next.js", "WordPress CMS"],
+      stack: ["Next.js"],
       description:
-        "Maritime industry website developed with modern responsive design and CMS-driven content management.",
+        "Developed a modern maritime industry website with responsive interfaces, streamlined content workflows, and optimized performance across devices.",
     },
-
+  
     {
       name: "Nautilus Shipping",
       url: "https://nautilusshipping.com/",
       stack: ["Next.js", "WordPress CMS"],
       description:
-        "Shipping and logistics website built with scalable frontend architecture and dynamic CMS integration.",
+        "Built a logistics and shipping platform featuring dynamic content integration, intuitive navigation, and scalable frontend architecture.",
     },
-
+  
     {
       name: "AIMS Institutions",
       url: "https://theaims.ac.in/",
       stack: ["Next.js", "WordPress CMS"],
       description:
-        "Educational institution website created with responsive layouts, optimized performance, and CMS support.",
+        "Designed and developed an education-focused website with program listings, admission-related content, and a responsive user experience for students.",
     },
-  ],
+  
+    {
+      name: "Chartered Housing",
+      url: "https://charteredhousing.com/",
+      stack: ["Next.js", "WordPress CMS"],
+      description:
+        "Developed a real estate website showcasing residential projects, property information, and customer-focused digital experiences with CMS-driven content.",
+    },
+  ]
 };
