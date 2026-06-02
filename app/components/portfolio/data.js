@@ -36,7 +36,7 @@ export const portfolioData = {
       url: "https://vdsatheesan.com/",
       stack: ["Next.js", "WordPress CMS"],
       description:
-        "Led the development and ongoing maintenance of the official website of V. D. Satheesan, providing citizens with a platform to submit petitions, access public updates, and engage with constituency initiatives through a responsive and user-friendly interface.",
+        "Built and managed a high-traffic public engagement platform for V. D. Satheesan, enabling citizens to stay informed through news, updates, and direct communication channels.",
     },
 
     {
