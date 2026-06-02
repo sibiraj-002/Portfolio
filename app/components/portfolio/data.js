@@ -31,7 +31,14 @@ export const portfolioData = {
       description:
         "Developed a high-performance corporate website with dynamic content management, responsive design, and SEO-focused architecture to showcase company services and expertise.",
     },
-  
+    {
+      name: "V D Satheesan",
+      url: "https://vdsatheesan.com/",
+      stack: ["Next.js", "WordPress CMS"],
+      description:
+        "Led the development and ongoing maintenance of the official website of V. D. Satheesan, providing citizens with a platform to submit petitions, access public updates, and engage with constituency initiatives through a responsive and user-friendly interface.",
+    },
+
     {
       name: "The Zuri Hotels",
       url: "https://www.thezurihotels.com/",
